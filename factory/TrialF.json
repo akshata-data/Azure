@@ -1,0 +1,15 @@
+{
+	"name": "TrialF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "582f6db9-18bb-4c5b-bb0a-ac04450936d0",
+		"tenantId": "944a6ec8-5665-46b6-854b-6865bf343ab9"
+	}
+}
